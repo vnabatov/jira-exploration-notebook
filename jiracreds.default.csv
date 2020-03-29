@@ -1,2 +1,2 @@
-login,pass
-login123,password123
+login,pass,server
+login123,password123,https://jira.wiley.com/
